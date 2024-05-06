@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/background.jpg</file>
+        <file>resources/close.png</file>
+        <file>resources/noEffect.jpg</file>
+        <file>resources/bathroom.jpg</file>
+        <file>resources/livingroom.jpg</file>
+        <file>resources/outdoor.jpg</file>
+        <file>resources/theater.jpg</file>
+        <file>resources/LOGO.png</file>
+        <file>resources/minimize.jpg</file>
+        <file>resources/enConnect.jpg</file>
+        <file>resources/enDisconnect.jpg</file>
+        <file>resources/head.png</file>
+        <file>resources/languageRed.jpg</file>
+        <file>resources/minus.png</file>
+        <file>resources/plus.png</file>
+        <file>resources/speaker.png</file>
+    </qresource>
+</RCC>
