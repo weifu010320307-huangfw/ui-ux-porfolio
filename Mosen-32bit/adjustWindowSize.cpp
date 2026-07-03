@@ -13,7 +13,7 @@
 
 resizeWindow::resizeWindow()
 {
-
+    qDebug("This is a test");
 }
 
 void resizeWindow::resizeUI(QWidget *pWidget)
